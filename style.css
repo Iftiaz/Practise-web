@@ -17,7 +17,7 @@ section{
     padding: 7%;
 }
 .half-width img{
-    width: 55%;
+    width: 70%;
 }
 .hireme{
     text-decoration: none;
@@ -26,4 +26,10 @@ section{
     font-weight: 500;
     padding: 10px 40px;
     border-radius: 7px;
+}
+.scnd-psrt{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: bottom;
 }

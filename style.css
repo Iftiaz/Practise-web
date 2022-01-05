@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+.isaa{
+    color: orangered;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 7%;
+}
+.half-width img{
+    width: 55%;
+}
+.hireme{
+    text-decoration: none;
+    background-color: rgb(83, 83, 167);
+    color: white;
+    font-weight: 500;
+    padding: 10px 40px;
+    border-radius: 7px;
+}

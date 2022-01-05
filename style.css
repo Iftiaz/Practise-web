@@ -9,8 +9,37 @@ body{
 .isaa{
     color: orangered;
 }
-section{
+.flexible-container{
     display: flex;
+}
+.padding{
+    padding: 10px 25px;
+    margin: 0 10px;
+}
+.exp{
+    font-size: 3em;
+    margin-left: 39%;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    padding: 8px 20px;
+}
+.box{
+    display: flex;
+}
+.inbox{
+    box-shadow: 10px 10px 35px gray;
+    padding: 25px;
+    margin-left: 35px;
+    margin-top: 10px;
+    margin-bottom: 45px;
+    margin-right: 35px;
+
+}
+#color{
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
 }
 .half-width{
     width: 50%;
